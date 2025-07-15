@@ -32,11 +32,7 @@
     - Lipsync while talking.
 
 
-## Showcase
 
-[![Video demonstration](https://i.ibb.co/zm42TCq/2023-08-23-104833.png)](https://youtu.be/e8sF09jf_DA)
-
-*Demonstration in real time without cutouts or speed up. This is real delay in answers.
 
 ## Installation
 
@@ -114,6 +110,4 @@ To run this project, you need:
 > Depending on the selected input mode, program may send all recorded sounds or other data to the 3-rd parties such as: Google (stt, tts), OpenAI (stt, text generation), ElevenLabs (tts).
 
 
-## License
 
-[MIT](/LICENSE)
